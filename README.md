@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/cb01a15d-cca6-4466-88c1-d0c538f6452a)# Ural-Survival-Sever
 乌拉尔生存服务器仓库
 
 资源包版权链接：
